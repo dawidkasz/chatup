@@ -1,9 +1,7 @@
 # Chatup
 
 ## Description
-Messaging app (like Slack or Mattermost) developed for the purposes of Application Programming (PAP) course at the Warsaw University of Technology.
-Main functionalities are creating channels and adding there users, real-time (RabbitMQ message broker) chat and efficient full-text searching provided by Elasticsearch.
-User authentication is implemented using Spring Security and JWTs, GUI is created in JavaFX. 
+Messaging app (like Slack or Mattermost) developed in <b>Spring</b> and <b>JavaFX</b> for the purposes of the Application Programming (PAP) course at the Warsaw University of Technology. Main functionalities are creating channels(public/private/dms), real-time chat (</b>RabbitMQ</b>) and efficient full-text search provided by <b>Elasticsearch</b>. User authentication is implemented using Spring Security JWTs. 
 
 ![](docs/img/home.png)
 
